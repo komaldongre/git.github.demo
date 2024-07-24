@@ -3,3 +3,4 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 import skipy
+we understoood various processes
